@@ -14,4 +14,4 @@
 ##  Code due: depends on Milestone
 ##  Paper due: April 24 @ 11pm
 ##  Peer Reviews due: May 1 @ 11pm
-##  Presentation due: May 3 1pm
+##  Presentation due: May 3 1pm.
