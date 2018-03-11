@@ -1,0 +1,6 @@
+[submodule "deuces"]
+	path = deuces
+	url = https://github.com/worldveil/deuces.git
+[submodule "treys"]
+	path = treys
+	url = https://github.com/ihendley/treys.git
