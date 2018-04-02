@@ -15,3 +15,8 @@
 ##  Paper due: April 24 @ 11pm
 ##  Peer Reviews due: May 1 @ 11pm
 ##  Presentation due: May 3 1pm.
+
+
+## References
+Moffit, Chris. "Guide to Encoding Categorical Values in Python." Practical Buisness Python Atom, pbpython.com/categorical-encoding.html.
+
