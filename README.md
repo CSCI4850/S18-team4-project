@@ -1,9 +1,5 @@
 #   Team Perceptron 
 
-##       TODO:
-###         * Figure out project idea. 
-###         * Collect data.
-
 
 
 
@@ -15,6 +11,16 @@
 ##  Paper due: April 24 @ 11pm
 ##  Peer Reviews due: May 1 @ 11pm
 ##  Presentation due: May 3 1pm.
+
+# DEMO:
+##  Step 1: Install Jupyter here - http://jupyter.readthedocs.io/en/latest/install.html
+
+##  Step 2: Install the package Treys here - https://github.com/ihendley/treys/tree/master/treys
+###         This will be used to handle our deck of cards and other related things.
+
+##  Step 3: Make a local copy of this repo.
+
+##  Step 4: Open the file demo.ipynb located in the demo folder and follow it to learn about our project. 
 
 
 ## References
