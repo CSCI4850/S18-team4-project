@@ -13,6 +13,9 @@
 ##  Presentation due: May 3 1pm.
 
 # DEMO:
+
+##  Note: If you wish to skip installation and forgo interactivity, please navigate to demo.pdf in the demo folder.
+
 ##  Step 1: Install Jupyter here - http://jupyter.readthedocs.io/en/latest/install.html
 
 ##  Step 2: Install the package Treys here - https://github.com/ihendley/treys/tree/master/treys
