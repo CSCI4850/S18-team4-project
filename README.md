@@ -1,18 +1,16 @@
 #   Team Perceptron 
-This project uses Feed Forward and Convolutional Neural Networks to classify Poker Hands. We are using Poker Hand Data Set obtained from UCL Machine Learning Repository. A detailed walkthrough of the project can be found in the demo/demo.pdf.
+This project uses Feed Forward and Convolutional Neural Networks to classify Poker Hands. We are using Poker Hand Data Set obtained from [UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Poker+Hand). A detailed walkthrough of the project can be found in the demo/demo.pdf.
 
-## DEMO:
-
-## Dependences:
-
+## Demo and Dependences:
 1. [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) - Environment
 
 2. [Treys Package](https://github.com/ihendley/treys/tree/master/treys) - This will be used to handle our deck of cards.
 
 3. Make a local copy of this repo.
+
     $ git clone git@github.com:CSCI4850/S18-team4-project.git
 
-4. Open the file demo.ipynb located in the demo folder and follow it to learn about our project. 
+4. Walkthrough the demo.ipynb located in the demo directory to learn about our project. The Feed Forward and Convolutional Neural Networks can be found in model directory. 
 
 
 ## References
