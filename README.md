@@ -1,19 +1,19 @@
 #   Team Perceptron 
+This project uses Feed Forward and Convolutional Neural Networks to classify Poker Hands. We are using Poker Hand Data Set obtained from UCL Machine Learning Repository. A detailed walkthrough of the project can be found in the demo/demo.pdf.
 
 ## DEMO:
 
-### Note: If you wish to skip installation and forgo interactivity, please navigate to demo.pdf in the demo folder.
+## Dependences:
 
-### Dependences:
+1. [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) - Environment
 
-#### Step 1: Install Jupyter here - http://jupyter.readthedocs.io/en/latest/install.html
-####  Step 2: Install the package Treys here - https://github.com/ihendley/treys/tree/master/treys
-####         This will be used to handle our deck of cards and other related things.
+2. [Treys Package](https://github.com/ihendley/treys/tree/master/treys) - This will be used to handle our deck of cards.
 
-####  Step 3: Make a local copy of this repo.
+3. Make a local copy of this repo.
     $ git clone git@github.com:CSCI4850/S18-team4-project.git
 
-####  Step 4: Open the file demo.ipynb located in the demo folder and follow it to learn about our project. 
+4. Open the file demo.ipynb located in the demo folder and follow it to learn about our project. 
+
 
 ## References
 [1] M. Shackleford. (2018, March) Poker probabillities - wizard of odds.[Online]. Available: https://wizardofodds.com/games/poker/
