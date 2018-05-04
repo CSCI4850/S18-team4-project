@@ -7,8 +7,9 @@ This project uses Feed Forward and Convolutional Neural Networks to classify Pok
 2. [Treys Package](https://github.com/ihendley/treys/tree/master/treys) - This will be used to handle our deck of cards.
 
 3. Make a local copy of this repo.
-
+```bash
     $ git clone git@github.com:CSCI4850/S18-team4-project.git
+```
 
 4. Walkthrough the demo.ipynb located in the demo directory to learn about our project. The Feed Forward and Convolutional Neural Networks can be found in model directory. 
 
